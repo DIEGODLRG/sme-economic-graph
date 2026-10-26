@@ -1,6 +1,6 @@
 # SME Economic Graph
 
-Solución al reto de **AI Engineering** — *De datos Telco a inteligencia económica*.
+Solución de **AI Engineering** — *De datos Telco a inteligencia económica*.
 
 ## Ver la solución en vivo
 
